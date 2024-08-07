@@ -1,4 +1,4 @@
-# Machine-Learning-Credit-card-approval-prediction
+# Credit-card-approval-prediction
 Predicting creditworthiness involves using statistical or machine learning models to estimate a borrower’s loan repayment ability. This tool is essential for credit institutions (CIs) to minimize lending risks and improve operational efficiency.
 Factors affecting creditworthiness include:
 * Personal Information: Age, gender, education level, occupation, marital status, etc.
