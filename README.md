@@ -13,7 +13,8 @@ This report uses machine learning algorithms such as Random Forest, Decision Tre
 6. Making predictions and evaluating the model using the test set.
 
 The results show that the Random Forest algorithm achieves the highest accuracy, with an accuracy of 89%.
-# Run 
+
+# Run
 ```plaintext
 Streamlit run cc_approval_pred_1.py
 
